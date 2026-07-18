@@ -1,72 +1,88 @@
-# Hi, I’m Winner Marvi 👋
+# Hi, I'm Winner Marvi 👋
 
-🎓 Final-year Computer Engineering student (Class of 2027) from Mumbai, India.
-🤖 Passionate about Artificial Intelligence, Machine Learning, and Generative AI.
-💡 I enjoy building end-to-end AI applications that combine data analysis, machine learning, LLMs, and modern software engineering.
+🎓 Final-year Computer Engineering student (Class of 2027) with a passion for **Artificial Intelligence, Machine Learning, and Generative AI**.
+
+I enjoy building end-to-end AI applications that combine **machine learning, LLMs, and modern software engineering** to solve real-world problems. My goal is to become an **AI/ML Engineer** by creating production-style projects that demonstrate practical skills rather than just academic knowledge.
+
+---
 
 ## 🚀 Featured Project
 
 ### Auto Data Storyteller (AI Business Analyst)
 
-An AI-powered analytics platform that transforms raw CSV datasets into business-ready insights.
+An AI-powered analytics platform that transforms raw datasets into business-ready insights.
 
-✨ **Key Features**
+### ✨ Features
 
-* Automated data preprocessing and Exploratory Data Analysis (EDA)
-* Machine learning model training and evaluation
-* Retrieval-Augmented Generation (RAG) for context-aware dataset conversations
-* Natural language analytics with dynamic visualizations
-* AI-generated business insights and executive summaries
-* Automated PDF report generation
+- 📊 Automated Data Preprocessing & Exploratory Data Analysis (EDA)
+- 🤖 Machine Learning model training and evaluation
+- 💬 Context-aware dataset chat using Retrieval-Augmented Generation (RAG)
+- 📈 Natural language analytics with interactive visualizations
+- 📝 AI-generated business insights and executive summaries
+- 📄 Automated PDF report generation
 
-🛠️ **Tech Stack**
-Python • FastAPI • Streamlit • Pandas • NumPy • Scikit-learn • FAISS • Sentence-Transformers • Llama 3 (Groq) • Plotly • ReportLab
+### 🛠️ Tech Stack
 
-📂 **Repository:** https://github.com/winnermarvi/AUTO-DATA-STORYTELLER
+**Languages**
+- Python
+- SQL
 
-🎥 **Demo Video:** https://youtu.be/3ayy6pWXqNM
+**Machine Learning & AI**
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- Llama 3 (Groq)
+- Retrieval-Augmented Generation (RAG)
+- FAISS
+- Sentence-Transformers
 
-## 💻 Technologies I Use
+**Backend & Frontend**
+- FastAPI
+- Streamlit
 
-### Languages
+**Data Science**
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly
 
-* Python
-* SQL
+**Tools**
+- Git
+- GitHub
 
-### Machine Learning & AI
+🔗 **Repository:** https://github.com/winnermarvi/AUTO-DATA-STORYTELLER
 
-* Scikit-learn
-* TensorFlow
-* PyTorch
-* Retrieval-Augmented Generation (RAG)
-* LLM Integration
-* FAISS
-* Sentence-Transformers
+🎥 **Demo:** https://youtu.be/3ayy6pWXqNM
 
-### Backend & Frontend
+---
 
-* FastAPI
-* Streamlit
+## 📄 Resume / CV
 
-### Data Science & Visualization
+📥 **Download my Resume:**  
+**[Winner Marvi Resume (PDF)](Winner_Marvi_Resume.pdf)**
 
-* Pandas
-* NumPy
-* Matplotlib
-* Plotly
+> *(Replace this link with the actual location of your resume once uploaded.)*
 
-### Tools
-
-* Git
-* GitHub
-* Conda
-* API Integration
+---
 
 ## 📈 GitHub Activity
 
-![Winner Marvi's GitHub Contribution Calendar](https://ghchart.rshah.org/winnermarvi)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=winnermarvi&theme=github-compact" alt="Contribution Graph"/>
+</p>
 
-## 📫 Connect With Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=winnermarvi&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=winnermarvi&theme=github-dark&hide_border=true" height="170"/>
+</p>
 
-* LinkedIn: https://linkedin.com/in/winnermarvi
-* Email: [winnermarvi3@gmail.com](mailto:winnermarvi3@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winnermarvi&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/winnermarvi
+- 📧 Email: winnermarvi3@gmail.com
