@@ -1,6 +1,6 @@
 # Hi, I'm Winner Marvi 👋
 
-🎓 Final-year Computer Engineering student (Class of 2027) with a passion for **Artificial Intelligence, Machine Learning, and Generative AI**.
+🎓 Final-year Computer Engineering student (Class of 2027) with a passion for **Artificial Intelligence, Machine Learning, and DATA**.
 
 I enjoy building end-to-end AI applications that combine **machine learning, LLMs, and modern software engineering** to solve real-world problems. My goal is to become an **AI/ML Engineer** by creating production-style projects that demonstrate practical skills rather than just academic knowledge.
 
@@ -58,8 +58,9 @@ An AI-powered analytics platform that transforms raw datasets into business-read
 
 ## 📄 Resume
 
-📥 **[Download My Resume (PDF)](https://raw.githubusercontent.com/winnermarvi/resume/main/Winner_Marvi_Resume.pdf)**
+Looking for a detailed overview of my experience, projects, and technical skills?
 
+📄 **[View My Resume](https://winnermarvi.github.io/resume/Winner_Marvi_Resume.pdf)**
 
 ---
 
