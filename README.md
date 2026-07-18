@@ -5,6 +5,13 @@
 I enjoy building end-to-end AI applications that combine **machine learning, LLMs, and modern software engineering** to solve real-world problems. My goal is to become an **AI/ML Engineer** by creating production-style projects that demonstrate practical skills rather than just academic knowledge.
 
 ---
+## 🌐 Live Portfolio
+
+Explore my portfolio to learn more about my projects, skills, and experience.
+
+🔗 **Portfolio:** https://winnermarvi.pythonanywhere.com/
+
+---
 
 ## 🚀 Featured Project
 
