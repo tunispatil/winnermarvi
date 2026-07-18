@@ -1,39 +1,39 @@
-# Hi, I'm Winner Marvi 👋
+# Hi, I’m Winner Marvi 👋
 
-I'm a final-year Computer Engineering student (Class of 2027) passionate about Artificial Intelligence, Machine Learning, and Generative AI. I enjoy building end-to-end AI applications that combine machine learning, LLMs, and modern software engineering to solve real-world problems.
+🎓 Final-year Computer Engineering student (Class of 2027) from Mumbai, India.
+🤖 Passionate about Artificial Intelligence, Machine Learning, and Generative AI.
+💡 I enjoy building end-to-end AI applications that combine data analysis, machine learning, LLMs, and modern software engineering.
 
 ## 🚀 Featured Project
 
 ### Auto Data Storyteller (AI Business Analyst)
 
-An AI-powered analytics platform that transforms raw datasets into business-ready insights.
+An AI-powered analytics platform that transforms raw CSV datasets into business-ready insights.
 
-**Key Features**
+✨ **Key Features**
 
-* Upload and analyze CSV datasets automatically
-* Data preprocessing and Exploratory Data Analysis (EDA)
+* Automated data preprocessing and Exploratory Data Analysis (EDA)
 * Machine learning model training and evaluation
 * Retrieval-Augmented Generation (RAG) for context-aware dataset conversations
 * Natural language analytics with dynamic visualizations
 * AI-generated business insights and executive summaries
 * Automated PDF report generation
 
-**Tech Stack**
-
+🛠️ **Tech Stack**
 Python • FastAPI • Streamlit • Pandas • NumPy • Scikit-learn • FAISS • Sentence-Transformers • Llama 3 (Groq) • Plotly • ReportLab
-
-🎥 **Demo:** https://youtu.be/3ayy6pWXqNM
 
 📂 **Repository:** https://github.com/winnermarvi/AUTO-DATA-STORYTELLER
 
-## 💻 Technologies
+🎥 **Demo Video:** https://youtu.be/3ayy6pWXqNM
 
-**Languages**
+## 💻 Technologies I Use
+
+### Languages
 
 * Python
 * SQL
 
-**Machine Learning & AI**
+### Machine Learning & AI
 
 * Scikit-learn
 * TensorFlow
@@ -43,22 +43,28 @@ Python • FastAPI • Streamlit • Pandas • NumPy • Scikit-learn • FAISS
 * FAISS
 * Sentence-Transformers
 
-**Backend & Frontend**
+### Backend & Frontend
 
 * FastAPI
 * Streamlit
 
-**Data Science**
+### Data Science & Visualization
 
 * Pandas
 * NumPy
 * Matplotlib
 * Plotly
 
-**Tools**
+### Tools
 
 * Git
 * GitHub
+* Conda
+* API Integration
+
+## 📈 GitHub Activity
+
+![Winner Marvi's GitHub Contribution Calendar](https://ghchart.rshah.org/winnermarvi)
 
 ## 📫 Connect With Me
 
