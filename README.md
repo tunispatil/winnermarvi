@@ -56,10 +56,9 @@ An AI-powered analytics platform that transforms raw datasets into business-read
 
 ---
 
-## 📄 Resume / CV
+## 📄 Resume
 
-📥 **Download my Resume:**  
-**[Winner Marvi Resume (PDF)]([Winner_Marvi_Resume.pdf](https://winnermarvi.github.io/resume/Winner_Marvi_Resume.pdf))**
+📥 **[Download My Resume (PDF)](https://raw.githubusercontent.com/winnermarvi/resume/main/Winner_Marvi_Resume.pdf)**
 
 
 ---
