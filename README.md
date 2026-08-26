@@ -9,7 +9,7 @@ I enjoy building end-to-end AI applications that combine **machine learning, LLM
 
 Explore my portfolio to learn more about my projects, skills, and experience.
 
-🔗 **Portfolio:** https://winnermarvi.pythonanywhere.com/
+🔗 **Portfolio:** https://winnermarvi-portfolio.onrender.com/
 
 ---
 
